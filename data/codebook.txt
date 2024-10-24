@@ -1,0 +1,38 @@
+###############################################
+###Codebook for African Recession Prediction:###
+################################################
+Note: "Current PPPs" refers to 2011 price levels in USD.
+
+population - Population (in millions)
+
+emp_to_pop - Ratio of employed persons to total population
+
+hci - Human Capital Index (Takes in average years of schooling and returns on that education)
+
+consumption_hg - Real consumption of households and government at current PPPs
+
+absorption - Real domestic absorption (consumption plus investment) at current PPPs
+
+tfp - Total Factor Productivity (Measures the impact of technological advances and worker development)
+
+labor_share - Share of labor compensation in the current GDP
+
+irr - Real internal rate of return
+
+depreciation - Average depreciation of the capital stock 
+
+exchange - Current exchange rate of the national currency to USD
+
+share_house - The share of GDP from household consumption at current PPPs
+
+share_gov - The share of GDP from government consumption at current PPPs
+
+share_exports - The share of GDP from exports at current PPPs
+
+share_imports - The share of GDP from imports at current PPPs
+
+cpi - Commodity Price Index (Measures the cost of a broad range of goods)
+
+cpi_change - Year-over-year change in CPI
+
+recession - binary outcome variable: "1" if Recession, "0" if not

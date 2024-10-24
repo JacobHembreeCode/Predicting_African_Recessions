@@ -1,0 +1,8 @@
+"0","# Load in project data"
+"0","project_data <- read.csv(""data/project_data.csv"")"
+"0",""
+"0","# Remove number column ""X"""
+"0","project_data <- project_data %>%"
+"0","  select(-X)"
+"2","Error in select(., -X) : unused argument (-X)
+"

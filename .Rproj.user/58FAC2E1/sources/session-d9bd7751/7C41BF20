@@ -1,0 +1,32 @@
+{
+    "id": "7C41BF20",
+    "path": "~/Desktop/PSTAT 131/Recession_Classification_Project/Recession_Prediction_Project.Rmd",
+    "project_path": "Recession_Prediction_Project.Rmd",
+    "type": "r_markdown",
+    "hash": "962219472",
+    "contents": "",
+    "dirty": false,
+    "created": 1717796184885.0,
+    "source_on_save": false,
+    "relative_order": 8,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "16,0",
+        "scrollLine": "0",
+        "rmdVisualMode": "true",
+        "rmdVisualWrapConfigured": "true",
+        "docOutlineVisible": "1",
+        "rmdVisualCollapsedChunks": "1",
+        "rmdVisualModeLocation": "250:0",
+        "last_setup_crc32": ""
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1725932668,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1725932669614,
+    "read_only": false,
+    "read_only_alternatives": []
+}
